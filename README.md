@@ -1,9 +1,6 @@
-# desafio-dio-menuhamburguer-css
-Projeto de Portfólio utilizando CSS Transitions
+<h1 align="center">Menu hamburguer com CSS Transitions</h1>
 
-<h1 align="center">Primeiro Portólio pessoal </h1>
-
-<p align="center">Primeiro portfólio feito em HTML e CSS</p>
+<p align="center">Projeto de Portfólio utilizando CSS Transitions</p>
 
 
 <p align="center"> 
@@ -16,11 +13,11 @@ Projeto de Portfólio utilizando CSS Transitions
 </p>
 
 # Sobre
-<p>Projeto de portfólio simples  </p>
+<p>Projeto foi desenvolvido com menu hamburguer e morphing menu com CSS Transitions </p>
 
 # Objetivo
 <p>
- Apresentar meu porfólio feito realizado em HTML e CSS
+ Apresentar meu porfólio feito somente com HTML e CSS e mostrar o menu hamburguer
 </p>
 
 # Tecnologias
