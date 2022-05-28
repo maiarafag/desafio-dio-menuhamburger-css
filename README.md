@@ -5,20 +5,14 @@
 
 <p align="center"> 
  <a href="#sobre">Sobre</a> •
- <a href="#objetivo">Objetivo</a> •
  <a href="#tecnologias">Tecnologias</a> • 
  <a href="#pre-requisitos">Pré Requisitos</a> • 
- <a href="#demonstracao">Demonstração</a>
+ <a href="#resultadoo">Resultado</a>
  
 </p>
 
 # Sobre
 <p>Projeto foi desenvolvido com menu hamburguer e morphing menu com CSS Transitions </p>
-
-# Objetivo
-<p>
- Apresentar meu porfólio feito somente com HTML e CSS e mostrar o menu hamburguer
-</p>
 
 # Tecnologias
 <p>Foi usado na construção do projeto:
@@ -36,7 +30,7 @@
 
 </p>
 
-# Demonstracao
+# Resultado
 
 <h1 align="center">
   <img alt="Portfólio" title="#Portfólio" src="./Desafio-menu-proj-final/vid.gif" />
