@@ -1,15 +1,7 @@
-<h1 align="center">Menu Hamburger com CSS Transitions</h1>
+<h1>Menu Hamburger com CSS Transitions</h1>
 
-<p align="center">Projeto de Portfólio utilizando CSS Transitions</p>
+<p>Projeto de Portfólio utilizando CSS Transitions</p>
 
-
-<p align="center"> 
- <a href="#sobre">Sobre</a> •
- <a href="#tecnologias">Tecnologias</a> • 
- <a href="#pre-requisitos">Pré Requisitos</a> • 
- <a href="#resultadoo">Resultado</a>
- 
-</p>
 
 # Sobre
 <p>Projeto foi desenvolvido com menu hamburguer e morphing menu com CSS Transitions </p>
@@ -33,5 +25,5 @@
 # Resultado
 
 <h1 align="center">
-  <img alt="Portfólio" title="#Portfólio" src="./Desafio-menu-proj-final/vid.gif" />
+  <img alt="Portfólio" title="#Portfólio" src="./vid.gif" />
 </h1>
