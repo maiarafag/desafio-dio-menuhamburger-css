@@ -1,4 +1,4 @@
-<h1 align="center">Menu hamburguer com CSS Transitions</h1>
+<h1 align="center">Menu Hamburger com CSS Transitions</h1>
 
 <p align="center">Projeto de Portfólio utilizando CSS Transitions</p>
 
